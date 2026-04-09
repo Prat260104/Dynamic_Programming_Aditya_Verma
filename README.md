@@ -1,2 +1,2 @@
 # Dynamic_Programming_Aditya_Verma
-Dynamic programmin
+Dynamic programming
